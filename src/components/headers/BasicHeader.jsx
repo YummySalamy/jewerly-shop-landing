@@ -37,7 +37,7 @@ const BasicHeader = () => {
             {header_elements.map((element, index) => (
                 <a
                     key={index}
-                    href={element.link}
+                    // href={element.link}
                     className={index === active ? "header-element active" : "header-element"}
                     onClick={() => setActive(index)}
                 >
