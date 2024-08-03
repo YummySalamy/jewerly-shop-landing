@@ -2,9 +2,9 @@
 
 This project is a jewelry shop landing page design inspired by minimalism. It is built using React + Vite and native CSS. Please note that this project is currently in development, with more versions and updates coming soon.
 
-![Image 1](images/Image1.jpg)
-![Image 2](images/Image2.jpg)
-![Image 3](images/Image3.jpg)
+![Image 1](public/images/Image1.jpg)
+![Image 2](public/images/Image2.jpg)
+![Image 3](public/mages/Image3.jpg)
 
 ## Table of Contents
 
