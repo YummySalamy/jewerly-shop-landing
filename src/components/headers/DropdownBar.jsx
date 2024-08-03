@@ -36,7 +36,11 @@ const DropdownBar = ({ toggleMenu }) => {
     return (
         <div className="dropdown-bar">
             {elements.map((element, index) => (
-                <div className={index === active ? "dropdown-element active" : "dropdown-element"} onClick={() => setActive(index)}>
+                <div 
+                    key={index}
+                    className={index === active ? "dropdown-element active" : "dropdown-element"} 
+                    onClick={() => setActive(index)}
+                >
                     {element.name}
                 </div>
             ))}
