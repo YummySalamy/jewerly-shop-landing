@@ -28,3 +28,17 @@
     justify-content: center;
     gap: 20px;
 }
+
+.menu-icon {
+    display: none;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 1001;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+}
