@@ -4,7 +4,7 @@ This project is a jewelry shop landing page design inspired by minimalism. It is
 
 ![Image 1](public/images/Image1.jpg)
 ![Image 2](public/images/Image2.jpg)
-![Image 3](public/mages/Image3.jpg)
+![Image 3](public/images/Image3.jpg)
 
 ## Table of Contents
 
