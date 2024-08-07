@@ -47,7 +47,7 @@ const best_sellers = [
 
 const BestSellers = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
-    const itemsPerPage = 4;
+    const itemsPerPage = 1;
     const totalPages = Math.ceil(best_sellers.length / itemsPerPage);
 
     const handlePrev = () => {
