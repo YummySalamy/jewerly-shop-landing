@@ -52,4 +52,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal and commercial purposes.
+This project is developed by Sebastián Escobar. The code can be inspected and modified for personal use and educational purposes. However, it is not free for commercial use. If you wish to use this project for commercial purposes, please contact me to discuss licensing options.
